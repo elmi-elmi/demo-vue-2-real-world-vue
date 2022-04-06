@@ -4,10 +4,8 @@
 
 <script>
 export default {
-  name: "EventCreate"
+  name: "EventCreate",
 };
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
